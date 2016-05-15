@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
 
     // TODO - insert your themoviedb.org API KEY here
-    private final static String API_KEY = "d44787d1235b51bfb78b89ac4f3bf2d4";
+    private final static String API_KEY = "TuKey";
 
 
     @Override
